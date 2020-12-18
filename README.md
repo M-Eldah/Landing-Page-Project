@@ -10,6 +10,7 @@
 -The page is built similar to the example html, but i rebuilt it, to be more familiar with it.
 -the css style is much more simpler than the one used in the example
 -some modification is made to syle to accumudate changes in view size between diffrent devices, mainly the use of the overflow function 
+-there is a background image but it is linked in through the internet
 
 *Methodology
 -in this landing page i use a method where i calculate the visable area of a section on the screen,and using the assumption 
